@@ -9,4 +9,4 @@ Its main service frontend `kite` is under AGPL, and many of its modules are eith
 A very minimal introduction but busy writing code instead of creating a fancy webpage.
 
 How to install prefer.social to run your own decentralized social service.  
-https://github.com/prefer-social/prefer.social
+[https://github.com/prefer-social/prefer.social](https://github.com/prefer-social/prefer.social/blob/main/README.md)
